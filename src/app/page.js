@@ -9,18 +9,6 @@ export default function Home() {
       
     <div>
       <h1>Product List</h1>
-      <div>
-          
-        <Link href="/products/1">Laptop</Link>
-      </div>
-      <div>
-        
-        <Link href="/products/2">Mobile</Link>
-      </div>
-      <div>
-        
-        <Link href="/products/3">Shoe</Link>
-      </div>
     </div>
     </div>
   );
